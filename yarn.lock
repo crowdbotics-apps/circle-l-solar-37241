@@ -1244,16 +1244,13 @@
 "@screens/appointment-calendar@file:./screens/appointment-calendar":
   version "1.0.0"
 
-"@screens/archive-content@file:./screens/archive-content":
-  version "1.0.0"
-
 "@screens/direct-messages@file:./screens/direct-messages":
   version "1.0.0"
 
 "@screens/job-details-provider-view@file:./screens/job-details-provider-view":
   version "1.0.0"
 
-"@screens/leaderboard-screen@file:./screens/leaderboard-screen/":
+"@screens/leaderboard-screen@file:./screens/leaderboard-screen":
   version "1.0.0"
 
 "@screens/notifications-preference@file:./screens/notifications-preference":

@@ -19,7 +19,6 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/about-the-app": "file:./screens/about-the-app/",
     "@screens/appointment-calendar": "file:./screens/appointment-calendar/",
-    "@screens/archive-content": "file:./screens/archive-content/",
     "@screens/direct-messages": "file:./screens/direct-messages/",
     "@screens/job-details-provider-view": "file:./screens/job-details-provider-view/",
     "@screens/leaderboard-screen": "file:./screens/leaderboard-screen/",
