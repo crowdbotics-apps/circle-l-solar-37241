@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-onboarding](modules/onboarding)
 - [screen-direct-messages](screens/direct-messages)
 - [screen-archive-content](screens/archive-content)
+- [screen-about-the-app](screens/about-the-app)
 
 # Getting started: Frontend
 
