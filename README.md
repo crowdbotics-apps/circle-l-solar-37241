@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-about-the-app](screens/about-the-app)
 - [screen-notifications-preference](screens/notifications-preference)
 - [screen-job-details-provider-view](screens/job-details-provider-view)
+- [screen-appointment-calendar](screens/appointment-calendar)
 
 # Getting started: Frontend
 
