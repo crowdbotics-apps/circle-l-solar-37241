@@ -20,6 +20,7 @@
     "@screens/about-the-app": "file:./screens/about-the-app/",
     "@screens/archive-content": "file:./screens/archive-content/",
     "@screens/direct-messages": "file:./screens/direct-messages/",
+    "@screens/job-details-provider-view": "file:./screens/job-details-provider-view/",
     "@screens/notifications-preference": "file:./screens/notifications-preference/",
     "axios": "^0.21.1",
     "react": "17.0.1",
