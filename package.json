@@ -22,6 +22,7 @@
     "@screens/archive-content": "file:./screens/archive-content/",
     "@screens/direct-messages": "file:./screens/direct-messages/",
     "@screens/job-details-provider-view": "file:./screens/job-details-provider-view/",
+    "@screens/leaderboard-screen": "file:./screens/leaderboard-screen/",
     "@screens/notifications-preference": "file:./screens/notifications-preference/",
     "axios": "^0.21.1",
     "react": "17.0.1",
