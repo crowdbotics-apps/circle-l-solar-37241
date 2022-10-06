@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-direct-messages](screens/direct-messages)
 - [screen-archive-content](screens/archive-content)
 - [screen-about-the-app](screens/about-the-app)
+- [screen-notifications-preference](screens/notifications-preference)
 
 # Getting started: Frontend
 
